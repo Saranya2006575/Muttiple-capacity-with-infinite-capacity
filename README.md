@@ -19,11 +19,23 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Experiment:
 
+![Screenshot 2024-12-10 192415](https://github.com/user-attachments/assets/a5386e8e-847d-40dd-a499-549d586e59ca)
+
+
+![Screenshot 2024-12-10 192430](https://github.com/user-attachments/assets/e0a4507c-c0f9-4d93-a49d-be83ecc8fa4f)
+
 
 ## Program
+
+![Screenshot 2024-12-10 192143](https://github.com/user-attachments/assets/b61fe3a4-fa86-4da1-bae0-b7921801f959)
+
 
 
 ## Output :
 
+![Screenshot 2024-12-10 192154](https://github.com/user-attachments/assets/4018fe96-b18b-4f17-ac4d-2fdce898afd2)
+
+
 ## Result : 
+Thus the average number od materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully
 
